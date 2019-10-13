@@ -1,0 +1,86 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple SKU Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-13 19:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class-l36-sku-search-admin-options.php:20
+msgid "Main Settings"
+msgstr ""
+
+#: class-l36-sku-search-admin-options.php:26
+msgid "Use Exact Match"
+msgstr ""
+
+#: class-l36-sku-search-admin-options.php:32
+msgid "Query var"
+msgstr ""
+
+#. Name of the plugin
+#: class-l36-sku-search-admin-options.php:41
+#: class-l36-sku-search-admin-options.php:42
+#: class-l36-sku-search-admin-options.php:53
+msgid "Simple SKU Search"
+msgstr ""
+
+#: class-l36-sku-search-admin-options.php:71
+#, php-format
+msgid ""
+"Please chose whether to use exact match for SKU search and the sku query var "
+"(default: %s)"
+msgstr ""
+
+#: class-l36-sku-search-form-shortcode.php:36
+#: class-l36-sku-search-form-widget.php:37
+msgid "SKU:"
+msgstr ""
+
+#: class-l36-sku-search-form-shortcode.php:42
+#: class-l36-sku-search-form-widget.php:43
+msgid "Search"
+msgstr ""
+
+#: l36-search-by-sku.php:49
+msgid ""
+"Simple SKU Search is enabled but not effective! It requires WooCommerce in "
+"order to work."
+msgstr ""
+
+#: l36-search-by-sku.php:63
+msgid "Settings"
+msgstr ""
+
+#: class-l36-sku-search-form-widget.php:20
+msgid "Search by Sku Form Widget"
+msgstr ""
+
+#: class-l36-sku-search-form-widget.php:24
+msgid "Lab36 Search by Sku Form Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Woocommerce plugin to add simple search by sku using widget or shortcode"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/lab36/woocommerce-search-by-sku"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lab36"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lab36solutions.com"
+msgstr ""
