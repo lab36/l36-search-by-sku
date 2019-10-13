@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Simple SKU Search
-  Plugin URI: https://github.com/lab36/woocommerce-search-by-sku
+  Plugin URI: https://github.com/lab36/l36-search-by-sku
   Description: Woocommerce plugin to add simple search by sku using widget or shortcode
   Author: Lab36
   Author URI: https://lab36solutions.com
